@@ -1,0 +1,30 @@
+IBAN: RO62034718119593
+ Nume titular: Popescu Ion
+  Adresa titular: strada Marului nr. 10
+   Seria buletin titular: AR
+    Numar buletin titular: 000000
+     Sold disponibil: 0
+IBAN: RO05075731000384
+ Nume titular: Ionescu Alexandru
+  Adresa titular: strada Perei nr. 100
+   Seria buletin titular: AB
+    Numar buletin titular: 010101
+     Sold disponibil: 0
+IBAN: RO23814106673526
+ Nume titular: Georgescu Andrei
+  Adresa titular: strada Nucii nr. 1
+   Seria buletin titular: BH
+    Numar buletin titular: 123456
+     Sold disponibil: 0
+IBAN: RO15046368976024
+ Nume titular: Marcescu Mihai
+  Adresa titular: strada Piersicii nr. 20
+   Seria buletin titular: CJ
+    Numar buletin titular: 102030
+     Sold disponibil: 0
+IBAN: RO32085920220386
+ Nume titular: Pop Vlad
+  Adresa titular: strada Portocalei nr. 150
+   Seria buletin titular: TM
+    Numar buletin titular: 132798
+     Sold disponibil: 0

@@ -1,0 +1,3 @@
+Tip tranzactie: Depunere: +10000
+Tip tranzactie: Retragere: -5000
+Tip tranzactie: Transfer: 2500
